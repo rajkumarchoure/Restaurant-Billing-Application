@@ -1,0 +1,1 @@
+ALTER TABLE `bills` ADD `is_parsal` INT NOT NULL COMMENT '0=no, yes=1' AFTER `is_completed` 
